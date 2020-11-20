@@ -17,3 +17,5 @@ In case of validation, two scenarios are possible :
 At any moment, a user can logout and the login page is displayed again.
 After the first login of a user, the web site creates a cookie for the username so that the username is automatically filled in later logins.
 Once the user is logged in, the server saves his username in a session, and displays it in a welcome message. This message should be displayed in all visited pages.
+
+For more information, please have a look a the pdf report.
